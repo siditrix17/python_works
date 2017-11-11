@@ -4,3 +4,4 @@ for face_detection.py :
 2) download required haar cascade from following link :
 https://github.com/opencv/opencv/tree/master/data/haarcascades
 in my program I used defaultface and eye cascade for recognition.
+3)place those (.xml) files in default python directory.
