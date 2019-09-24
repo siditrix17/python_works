@@ -1,0 +1,29 @@
+git commands:
+git init --initialise the folder
+git status -- checking status
+git add file -- for staging
+
+git commit -- for commiting :wq
+git commit -m 'new commit'
+git log -- seeing log messages
+
+git add . -- for staging all
+
+Branching::
+
+git branch Mybranch(branch-name)
+git checkout Mybranch (going to branch)
+git checkout master (going to master)
+git merge Mybranch(merging to master)
+
+git commit -a -m 'changes' (auto staging)
+
+
+remote:
+git clone --url--
+git remote
+git remote -v
+git fetch origin (changes)
+git pull origin (fetch and merge)
+
+git push origin master(pushing up on server)
